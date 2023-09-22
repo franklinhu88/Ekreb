@@ -1,0 +1,10 @@
+/* Formats Stat component */
+
+.stat-container {
+  display: flex;
+  align-items: center;
+}
+
+span {
+  margin: 20px;
+}
